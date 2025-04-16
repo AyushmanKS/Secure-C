@@ -16,4 +16,4 @@
 #define strcat(...) BLOCK_USE_OF(strcat)
 #define strncpy(...) BLOCK_USE_OF(strncpy)
 
-#endif // BAN_UNSAFE_H
+#endif 

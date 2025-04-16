@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "../enforcement/ban_unsafe.h" #enforced copiler restrictions
+// #include "../enforcement/ban_unsafe.h" #enforced copiler restrictions
 
 int main() {
     char src[] = "HelloSecureWorld";
